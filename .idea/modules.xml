@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.grievanceconnect.grievanceconnect.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.grievanceconnect.grievanceconnect.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.grievanceconnect.grievanceconnect.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.grievanceconnect.grievanceconnect.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/grievanceconnect.iml" filepath="$PROJECT_DIR$/.idea/grievanceconnect.iml" />
+    </modules>
+  </component>
+</project>
